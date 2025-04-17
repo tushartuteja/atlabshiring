@@ -1,6 +1,6 @@
 # Atlabs is Hiring Software Engineers & Video Editors
 
-Let's be real – AI promises the world, but creative professionals are stuck with scattered tools that lack **granular creative control** and **integrated workflow** needed for serious video production. Video creation demands speed, cost-efficiency, and *precise* creative oversight, yet the path from concept to final cut remains painful. 
+Let's be real – AI promises the world, but creative professionals are stuck with scattered tools that lack **granular creative control** and **integrated workflow** needed for serious video production. Video creation demands speed, cost-efficiency, and _precise_ creative oversight, yet the path from concept to final cut remains painful.
 
 That's why we started Atlabs.
 
@@ -33,7 +33,7 @@ You're a React Ninja, understand the in and out of DOM and how browser events wo
 <aside>
 💡
 
-Willingness to shift Teams and Stack: Startups move very fast, and sometimes, you have to work in different software domains. 
+Willingness to shift Teams and Stack: Startups move very fast, and sometimes, you have to work in different software domains.
 
 </aside>
 
