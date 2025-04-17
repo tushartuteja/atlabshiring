@@ -1,0 +1,121 @@
+:root {
+  /* Primary Colors */
+  --color-primary-main: #d52121;
+  --color-primary-dark: #ad1515;
+  --color-primary-main-75: #d5212175;
+  --color-primary-main-20: #d5212120;
+  --color-primary-main-10: #d5212110;
+  --color-primary-border: #ddcece;
+  --color-primary-lighter: #fcebeb;
+
+  /* Secondary Colors */
+  --color-secondary-main: #595959;
+  --color-secondary-light: #737373;
+  --color-secondary-dark: #404040;
+
+  /* Tertiary Colors */
+  --color-tertiary-main: #262626;
+  --color-tertiary-light: #404040;
+  --color-tertiary-dark: #1a1a1a;
+
+  /* Neutral Colors */
+  --color-neutral-background: #f8f8f8;
+  --color-neutral-dark-background: #f1f1f1;
+  --color-neutral-white: #ffffff;
+  --color-neutral-black: #000000;
+}
+
+/* Base styles */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--color-tertiary-main);
+  background-color: var(--color-neutral-background);
+  margin: 0;
+  padding: 0;
+}
+
+/* Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Typography */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--color-primary-main);
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+a {
+  color: var(--color-primary-main);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--color-primary-dark);
+}
+
+/* Buttons */
+.button {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: var(--color-primary-main);
+  color: var(--color-neutral-white);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.button:hover {
+  background-color: var(--color-primary-dark);
+}
+
+.button.secondary {
+  background-color: var(--color-secondary-main);
+}
+
+.button.secondary:hover {
+  background-color: var(--color-secondary-dark);
+}
+
+/* Cards */
+.card {
+  background-color: var(--color-neutral-white);
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+}
+
+/* Sections */
+section {
+  margin: 2rem 0;
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--color-primary-border);
+}
+
+/* Header */
+header {
+  background-color: var(--color-neutral-white);
+  padding: 1rem 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer */
+footer {
+  background-color: var(--color-tertiary-main);
+  color: var(--color-neutral-white);
+  padding: 2rem 0;
+  margin-top: 4rem;
+}
