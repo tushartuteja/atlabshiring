@@ -75,7 +75,7 @@ You'll thrive here if:
 - You want to work on problems that blend **AI, product, and performance**.
 - You want your **work to matter** to users, the industry, and your growth.
 
-We operate out of **WeWork HQ27 in Gurgaon**, a vibrant and collaborative workspace. This is where our **Tech, Product, and Design teams are based**. We already have great people in the team, and we're looking to grow with folks who are just as passionate and obsessive about building something truly world-class.
+We operate out of **WeWork HQ27 in Gurgaon**, a vibrant and collaborative workspace. This is where our **Tech, Product, and Design teams are based**. We already have great people in the team (designers and engineers from IIT-D / B / M / R, LBS), & we're looking to grow with folks who are just as passionate and obsessive about building something truly world-class. 
 
 We aim to provide our teammates with a great environment and challenging opportunities, where the environment is our **team, culture, and workspace**.
 
