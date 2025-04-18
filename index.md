@@ -87,6 +87,6 @@ We aim to provide our teammates with a great environment and challenging opportu
 
 ### If this interests you!
 
-Send your resume and any public links (GitHub, website, projects, etc.) to **tushar@atlabs.ai**
+Send your resume and any public links (GitHub, website, projects, etc.) to [**tushar@atlabs.ai**](mailto:tushar@atlabs.ai)
 
 We'd love to hear from you!
