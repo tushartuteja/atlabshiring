@@ -126,12 +126,9 @@ You are encouraged to use AI tools (like GitHub Copilot, ChatGPT) to help with t
    - Complete source code (frontend and backend)
    - Comprehensive README.md with:
      - Setup instructions
-     - API documentation
      - Architecture decisions
-     - AI tools used (if any)
    - Docker Compose file (if not deployed)
    - Environment variables template
-   - Database schema diagram
 
 4. Send an email to [tushar@atlabs.ai](mailto:tushar@atlabs.ai) with:
    - GitHub repository link
@@ -142,8 +139,8 @@ You are encouraged to use AI tools (like GitHub Copilot, ChatGPT) to help with t
 
 ## Time Expectation
 
-- Expected time: 4-6 hours
-- Maximum time: 8 hours
+- Expected time: 1-2 days
+- Maximum time: 4 days
 
 ## Need Help?
 
