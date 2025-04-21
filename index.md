@@ -26,14 +26,14 @@ You understand frontend, backend and database well. If I point you to a button, 
 
 ### 2. Frontend Developers (0-2, 2-4 years experience)
 
-You're a React Ninja, understand the in and out of DOM and how browser events work. You obsess over getting the job done for the user in the minimum number of clicks and keyboard bindings.
+You're a React Ninja, understand the in and out of DOM and how browser events work. You obsess over being pixel perfect and getting the job done for the user, even bringing up UX issues you run into while developing and testing your work.
 
-- You should love **product development and enjoy seeing users use your product. You should obsess over user experience (UX) and performance. Our users spend as much** as 8 hours a day on the platform.
+- You should love **product development and enjoy seeing users use your product**. You should **obsess over user experience (UX) and performance**. Our users **spend as much as 8 hours a day** on the platform.
 
 <aside>
 💡
 
-Willingness to shift Teams and Stack: Startups move very fast, and sometimes, you have to work in different software domains.
+Willingness to shift Teams and Stack: Startups move very fast, and sometimes, you have to don multiple hats and work in different software domains.
 
 </aside>
 
@@ -78,6 +78,14 @@ You'll thrive here if:
 We operate out of **WeWork HQ27 in Gurgaon**, a vibrant and collaborative workspace. This is where our **Tech, Product, and Design teams are based**. We already have great people in the team (designers and engineers from IIT-D / B / M / R, LBS), & we're looking to grow with folks who are just as passionate and obsessive about building something truly world-class. 
 
 We aim to provide our teammates with a great environment and challenging opportunities, where the environment is our **team, culture, and workspace**.
+
+### What qualities are we looking for?
+
+- High ownership in shipping features
+- Building with care, shipping fast, and writing tests to ship even faster in the future
+- Fast learners and clear thinkers
+- Ability to figure out a thing when the requirement / spec is not 100% defined
+- Proof of work of some kind is essential (any public project, prior experience) to show you can build
 
 ### Our Hiring Process
 
