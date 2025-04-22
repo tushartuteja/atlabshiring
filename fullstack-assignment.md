@@ -42,7 +42,7 @@ Build a real-time collaborative Todo application that demonstrates your full-sta
 #### Frontend (React)
 
 - Use React with TypeScript
-- State management (Redux/Redux Toolkit preferred)
+- State management 
 - React Router for navigation
 - Proper loading states and error handling
 - Follow the provided Figma design
