@@ -20,11 +20,11 @@ This isn't just another "hit generate and pray" tool. We're building an AI-first
 
 ## Who We're Looking For
 
-### 1. Full Stack Developers (0-2, 2-4 years experience)
+### 1. Full Stack Developers (1-3, 3-5 years experience)
 
 You understand frontend, backend and database well. If I point you to a button, you can instantly tell that this will trigger an API call, triggering an async process, and the user will get a confirmation through sockets.
 
-### 2. Frontend Developers (0-2, 2-4 years experience)
+### 2. Frontend Developers (1-3, 3-5 years experience)
 
 You're a React Ninja, understand the in and out of DOM and how browser events work. You obsess over being pixel perfect and getting the job done for the user, even bringing up UX issues you run into while developing and testing your work.
 
