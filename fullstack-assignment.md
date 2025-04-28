@@ -58,7 +58,7 @@ Build a real-time collaborative Todo application that demonstrates your full-sta
 
 ## Design
 
-The UI/UX design is available in this [Figma file](link-to-figma). Please follow the design system, components, and interactions specified.
+The UI/UX design is available in this [Figma file](https://www.figma.com/design/2MbArFjmOaEjtEbQZXwmY7/To-do-List--Hiring-Assignment?node-id=11-2&t=mIhueILqNzeHmdxT-1). Please follow the design system, components, and interactions specified.
 
 ## Deployment
 
